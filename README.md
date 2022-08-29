@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roshen Mammedov</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
-
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **roshenmammedov18@gmail.com**
 
